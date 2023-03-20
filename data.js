@@ -13,5 +13,6 @@ module.exports = {
         {id: 1, name: 'Saurav Project', userId: 1},
         {id: 2, name: 'Sandeep Project', userId: 2},
         {id: 3, name: 'Shiva Project', userId: 3}
-    ]
+    ],
+    ROLE: ROLE
 }
